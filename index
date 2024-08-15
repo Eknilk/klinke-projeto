@@ -1,11 +1,9 @@
 <html lang="pt-BR">
+
 <section>
-<head>
-    <link rel="stylesheet" href="styles.css">
-    <title>klinke projeto</title>
-    </head>
 <body>
-    <div>
+    <divclass="chamada-texto">
+        <header>KLINKE PROJETOS</header>
 <h1>Mundo Bita - Fazendinha [clipe infantil]</h1>
 <p>#fazendinha</p>
 </div>
